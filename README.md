@@ -3,7 +3,7 @@
 ## Analysis (24 points)
 The purpose of the analysis was to breakdown existing bikesharing data to be used as a starting point of evaluating the prospects of a similar project in another area.  The bikesharing data for the month of August in 2019 was evaluated using Tableau.
 
-[Link to Dashboard](https://public.tableau.com/shared/PWK39PQYM?:display_count=n&:origin=viz_share_link)
+[Link to Dashboard](https://public.tableau.com/views/Bike_16643448070130/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Results:
 
